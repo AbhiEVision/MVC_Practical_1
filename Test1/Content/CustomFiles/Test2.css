@@ -1,0 +1,19 @@
+﻿.Display {
+	display: block
+}
+
+.Hide {
+	display: none
+}
+
+.Bold {
+	font-weight: bold
+}
+
+.Italic {
+	font-style: italic
+}
+
+.Underline {
+	text-decoration: underline
+}
