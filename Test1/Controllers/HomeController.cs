@@ -11,7 +11,7 @@ namespace Test1.Controllers
 		public ActionResult Index()
 		{
 			ViewBag.Test = "Hello World!";
-			return View();   
+			return View();
 		}
 
 		public ActionResult Test2()
